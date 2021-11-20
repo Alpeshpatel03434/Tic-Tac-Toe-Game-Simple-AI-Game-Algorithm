@@ -21,7 +21,6 @@ Run     : java Human_vs_Human
 - You can also direct Human_vs_AI.java program compile and run
 Compile : javac Human_vs_AI.java
 Run     : java Human_vs_AI
-
 4. Done
 
 ## Simple Tic-Tac-Toe Logical Algorithm
