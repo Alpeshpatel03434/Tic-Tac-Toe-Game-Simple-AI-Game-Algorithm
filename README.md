@@ -1,8 +1,17 @@
 # Tic-Tac-Toe-Game-Simple-AI-Game-Algorithm
 Using Simple Tic-Tac-Toe Logical Algorithm And Using Min-Max Algorithm
 
-<img src="img1.png"><img src="img2.png"></img></img>
+<img src="img1.png"></img>
 
+<img src="img2.png"></img>
+
+
+# How to run this project?
+
+1. Clone or download this repository to your local machine.
+2. If you do not already have the JDK software installed then <a href="https://www.oracle.com/java/technologies/downloads/">download</a> from and install it
+Set JAVA_HOME if not set Link - <a href="https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/">Help-need</a>
+3. 
 
 ## Simple Tic-Tac-Toe Logical Algorithm
 
